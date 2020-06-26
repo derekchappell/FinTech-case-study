@@ -2,7 +2,9 @@
 ## Planting the seeds of personal investment and savings ##
 
 <img src="https://investorjunkie.com/wp-content/uploads/2016/08/acorns-2.png" alt="Acorns" style="zoom:40%;" />
+
 ---
+
 ## Overview ##
 
 Acorns specializes in incremental and passive investing at the consumer level. They currently have 1.2 Billion in assets under their management.  They have since expanded into deposit account services as well as retirement account management. 
