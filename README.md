@@ -1,7 +1,7 @@
 # Acorns - a fintech case study
 ## Planting the seeds of personal investment and savings ##
 
-<img src="https://investorjunkie.com/wp-content/uploads/2016/08/acorns-2.png" alt="Acorns" style="zoom:40%;" />
+<img src="https://investorjunkie.com/wp-content/uploads/2016/08/acorns-2.png" alt="Acorns" style="zoom:15%;" />
 
 ---
 
